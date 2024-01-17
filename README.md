@@ -6,10 +6,13 @@ The goal is to assist in automating the loan approval process and improving deci
 ## Evaluation Metrics
 The models are evaluated based on the following metrics:
 
-Accuracy
-Precision
-Recall
-ROC-AUC
+1) Accuracy
+
+2) Precision
+
+3) Recall
+
+4) ROC-AUC
 
 ## Results 
 As here we want optimal value for Type 1 error (FP rate) and Type 2 error (FN rate)  
