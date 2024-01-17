@@ -13,4 +13,9 @@ ROC-AUC
 
 ## Results 
 As here we want optimal value for Type 1 error (FP rate) and Type 2 error (FN rate)  
-Hence Naive Bayes is a optimal Choice with highest Accuracy and AUC   
+Hence Naive Bayes is a optimal Choice with 
+Accuracy : 0.83  
+Precision : 0.82  
+Recall : 0.97   
+AUC : 0.83    
+
